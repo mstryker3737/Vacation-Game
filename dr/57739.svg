@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" style="enable-background:new 0 0 36 36;" viewBox="0 0 36 36" y="0px" x="0px" id="S_ShowMenu_18_N_2x" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
+	.st0{fill:#C8102E;}
+</style><path data-cppathid="10000" d="M5,16h26c0.6,0,1,0.4,1,1v2c0,0.6-0.4,1-1,1H5c-0.6,0-1-0.4-1-1v-2C4,16.4,4.4,16,5,16z" class="st0"/><path data-cppathid="10001" d="M5,6h26c0.6,0,1,0.4,1,1v2c0,0.6-0.4,1-1,1H5c-0.6,0-1-0.4-1-1V7C4,6.4,4.4,6,5,6z" class="st0"/><path data-cppathid="10002" d="M5,26h26c0.6,0,1,0.4,1,1v2c0,0.6-0.4,1-1,1H5c-0.6,0-1-0.4-1-1v-2C4,26.4,4.4,26,5,26z" class="st0"/></svg>
